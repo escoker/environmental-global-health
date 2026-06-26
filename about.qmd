@@ -4,7 +4,11 @@ title: "About"
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
+<<<<<<< Updated upstream
 ![Replace this placeholder with an image of yourself, your project, or something relevant to the site.](./images/coker_ML_indoorPM25.jpeg){.profile-image}
+=======
+![Environmental Health data science is integral to my projects' success. I align and integrate disparate datasets across different time and spatial scales to formulate powerfull analyses that enable interdisciplinary and impactful research. ](./images/coker_ML_indoorPM25.jpeg){.profile-image}
+>>>>>>> Stashed changes
 :::
 
 ::: {.g-col-12 .g-col-md-8}
