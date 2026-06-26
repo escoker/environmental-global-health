@@ -4,7 +4,7 @@ title: "About"
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
-![Replace this placeholder with an image of yourself, your project, or something relevant to the site.](images/profile-placeholder.svg){.profile-image}
+![Replace this placeholder with an image of yourself, your project, or something relevant to the site.](./images/coker_ML_indoorPM25.jpeg){.profile-image}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
